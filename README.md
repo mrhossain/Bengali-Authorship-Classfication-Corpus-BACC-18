@@ -1,1 +1,1 @@
-# Bengali-Authorship-Classfication-Corpus-BACC-18-
+# Bengali-Authorship-Classfication-Corpus-BACC-18
