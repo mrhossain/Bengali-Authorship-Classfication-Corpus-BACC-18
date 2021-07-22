@@ -1,5 +1,5 @@
 # Bengali-Authorship-Classfication-Corpus-BACC-18
-If you use the Dataset please chite the following paper.
+#If you use the Dataset, please cite the following paper.
 @ARTICLE{9478882,  
 author={Hossain, Md. Rajib and Hoque, Mohammed Moshiul and Dewan, M. Ali Akber and Siddique, Nazmul and Islam, Md. Nazmul and Sarker, Iqbal H.},  
 journal={IEEE Access},   
