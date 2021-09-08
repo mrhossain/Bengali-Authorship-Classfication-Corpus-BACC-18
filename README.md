@@ -1,4 +1,5 @@
 # Bengali-Authorship-Classfication-Corpus-BACC-18
+# Dataset url: https://data.mendeley.com/datasets/y64fcp2nzz/draft?a=a213caac-d860-4b61-b3d6-f04c25c6ec22
 #If you use the Dataset, please cite the following paper.
 @ARTICLE{9478882,  
 author={Hossain, Md. Rajib and Hoque, Mohammed Moshiul and Dewan, M. Ali Akber and Siddique, Nazmul and Islam, Md. Nazmul and Sarker, Iqbal H.},  
